@@ -58,7 +58,7 @@ c1 = Car.constructor_given("Tata,Indigo,559000,4,2005,luv")
 #print(f"Num : {Car.num}")
 
 #print(Car.discount(c1))
-#print(Car.discount(c2))
+print(Car.discount(c2))
 c1.display()
 Car.hello("World")
 #Car.display_total()
