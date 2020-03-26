@@ -19,6 +19,7 @@ class Laptop:
 
 l1 = Laptop('Lenovo',16,190000)
 l2 = Laptop('apple',16,520000)
+l3 =Laptop('Dell',16,150034)
 
 # Laptop.display(l1)
 # print(f"Discount in {l1.mname} : {l1.discount(40)}")
